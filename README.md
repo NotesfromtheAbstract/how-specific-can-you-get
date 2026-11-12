@@ -1,7 +1,7 @@
 # How Specific Can You Get?
 
 **Medical Coding Fundamentals, Lesson 2**
-*Notes from the Abstract*
+*Notes from the Abstracts*
 
 R code for all charts in Lesson 2 of the Medical Coding Fundamentals series.
 
